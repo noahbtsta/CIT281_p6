@@ -5,10 +5,10 @@ classes with different characteristics and properties. Practiced inheriting clas
 Gained more experience using a generic block of code to process data.
 
 ### Skills Used in Project
--Created 3 classes
-    - A Shape class that serves as a base for the other two
-    - A Rectangle class that is inherited from Shape class
-    - A Triangle class that is inherited from Shape class
+- Created 3 classes:
+   - A Shape class that serves as a base for the other two
+   - A Rectangle class that is inherited from Shape class
+   - A Triangle class that is inherited from Shape class
 
 - Tested classes using: 
 ![im](images/classtest.png)
